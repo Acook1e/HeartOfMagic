@@ -1,0 +1,10 @@
+{
+    "name": "spelllearning",
+    "version-string": "1.0.0",
+    "dependencies": [
+        "spdlog",
+        "nlohmann-json",
+        "rapidcsv",
+        "xbyak"
+    ]
+}
