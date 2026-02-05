@@ -40,3 +40,7 @@ desktop.ini
 # Release artifacts
 *.zip
 *.7z
+
+.cache
+.xmake
+build
